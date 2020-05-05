@@ -10,7 +10,7 @@ public class test1 {
     }
 
     public void setAddress(String address) {
-        this.address =            address;
+        this.address =           address;
     }
 
     public int getId() {
