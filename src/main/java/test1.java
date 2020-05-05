@@ -2,11 +2,11 @@ public class test1 {
     private int id;
     private String name;
     private String address;
- 
+
 
 
     public String getAddress() {
-        return            address;
+        return  address;
     }
 
     public void setAddress(String address) {
