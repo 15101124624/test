@@ -4,7 +4,7 @@ public class test1 {
     private String address;
 
     public void setAddress(String address) {
-        this.address = address;
+        this.address =            address;
     }
 
     public int getId() {
