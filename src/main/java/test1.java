@@ -3,6 +3,10 @@ public class test1 {
     private String name;
     private String address;
 
+    public void setAddress(String address) {
+        this.address = address;
+    }
+
     public int getId() {
         return id;
     }
